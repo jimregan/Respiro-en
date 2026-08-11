@@ -1,0 +1,5 @@
+intervaltree>=3.1.0
+librosa>=0.10.0
+numpy>=1.23.0
+torch>=2.0
+torchaudio>=2.0
